@@ -1,0 +1,112 @@
+[
+  {
+    "asset": "DAI",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "USDC",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "TUSD",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "USDT",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "SUSD",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "BUSD",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "GUSD",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "UNI",
+    "amount": 10,
+    "hasApproval": true
+  },
+  {
+    "asset": "YFI",
+    "amount": 0.001,
+    "hasApproval": true
+  },
+  {
+    "asset": "BAT",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "REN",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "ENJ",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "KNC",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "LINK",
+    "amount": 10,
+    "hasApproval": true
+  },
+  {
+    "asset": "MANA",
+    "amount": 1000,
+    "hasApproval": true
+  },
+  {
+    "asset": "MKR",
+    "amount": 0.1,
+    "hasApproval": true
+  },
+  {
+    "asset": "SNX",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "WBTC",
+    "amount": 0.001,
+    "hasApproval": true
+  },
+  {
+    "asset": "ZRX",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "CRV",
+    "amount": 100,
+    "hasApproval": true
+  },
+  {
+    "asset": "BAL",
+    "amount": 10,
+    "hasApproval": true
+  },
+  {
+    "asset": "XSUSHI",
+    "amount": 100,
+    "hasApproval": true
+  }
+]

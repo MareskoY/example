@@ -1,0 +1,140 @@
+[
+  {
+    "asset": "DAI",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "USDC",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "TUSD",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "USDT",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "SUSD",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "BUSD",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "GUSD",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "ETH",
+    "amount": "1",
+    "hasDepositApproval": false,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "UNI",
+    "amount": "10",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "YFI",
+    "amount": "0.001",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "BAT",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "REN",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "ENJ",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "KNC",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "LINK",
+    "amount": "10",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "MANA",
+    "amount": "1000",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "MKR",
+    "amount": "0.1",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "SNX",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "WBTC",
+    "amount": "0.001",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "ZRX",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "CRV",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "BAL",
+    "amount": "10",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  },
+  {
+    "asset": "XSUSHI",
+    "amount": "100",
+    "hasDepositApproval": true,
+    "hasBorrowApproval": true
+  }
+]
